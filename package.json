@@ -1,0 +1,29 @@
+{
+  "name": "gulp-scss-combine",
+  "version": "1.0.0",
+  "description": "Resolve @import statements in scss and scss.liquid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathMark/gulp-scss-combine.git"
+  },
+  "keywords": [
+    "scss",
+    "liquid",
+    "combine",
+    "import"
+  ],
+  "author": "Tuan Pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeathMark/gulp-scss-combine/issues"
+  },
+  "homepage": "https://github.com/DeathMark/gulp-scss-combine#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
